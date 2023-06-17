@@ -1,0 +1,19 @@
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .time {
+    font-size: 80px;
+    font-weight: bold;
+    
+  }
+   body
+   {
+    background-image: url('wp5699554.jpg');
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+   }
